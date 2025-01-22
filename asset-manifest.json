@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wordWizard/static/css/main.dc4d6ff2.css",
-    "main.js": "/wordWizard/static/js/main.071cafcd.js",
-    "static/js/453.b61fd76b.chunk.js": "/wordWizard/static/js/453.b61fd76b.chunk.js",
-    "index.html": "/wordWizard/index.html",
-    "main.dc4d6ff2.css.map": "/wordWizard/static/css/main.dc4d6ff2.css.map",
-    "main.071cafcd.js.map": "/wordWizard/static/js/main.071cafcd.js.map",
-    "453.b61fd76b.chunk.js.map": "/wordWizard/static/js/453.b61fd76b.chunk.js.map"
+    "main.css": "/static/css/main.dc4d6ff2.css",
+    "main.js": "/static/js/main.7d10c310.js",
+    "static/js/453.b61fd76b.chunk.js": "/static/js/453.b61fd76b.chunk.js",
+    "index.html": "/index.html",
+    "main.dc4d6ff2.css.map": "/static/css/main.dc4d6ff2.css.map",
+    "main.7d10c310.js.map": "/static/js/main.7d10c310.js.map",
+    "453.b61fd76b.chunk.js.map": "/static/js/453.b61fd76b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.071cafcd.js"
+    "static/js/main.7d10c310.js"
   ]
 }
